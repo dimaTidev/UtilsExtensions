@@ -1,0 +1,17 @@
+{
+"name" : "com.dimatidev.utilsextensions.Editor",
+ "references": [
+     "com.dimatidev.utilsextensions.Runtime"
+ ],
+ "optionalUnityReferences": [],
+ "includePlatforms": [
+     "Editor"
+ ],
+ "excludePlatforms": [],
+ "allowUnsafeCode": false,
+ "overrideReferences": false,
+ "precompiledReferences": [],
+ "autoReferenced": true,
+ "defineConstraints": []
+
+}
