@@ -8,7 +8,7 @@
     "keywords": [
     "Base"
     ],
-    "category": "",
+    "category": "Base",
     "repository": {
         "type": "git",
         "url": "https://github.com/dimaTidev/UtilsExtensions.git"
