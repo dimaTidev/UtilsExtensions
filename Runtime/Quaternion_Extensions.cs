@@ -40,6 +40,7 @@ public static class Extensions_Quaternion
         // this.forwardYZ = forwardYZ;
     }
 
+    public static Quaternion Delta(this Quaternion myQuat, Quaternion target) => myQuat * Quaternion.Inverse(target);
     // void OnDrawGizmos() //For Debug Limites <<---------
     // {
     //     Gizmos.color = Color.blue;
