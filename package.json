@@ -3,10 +3,11 @@
     "displayName": "UtilsExtensions",
     "version": "0.0.7",
     "unity": "2018.4",
+    "unityRelease": "",
     "description": "List of my common used Utils and Extensions",
     "author": "DimaTi <timofeenkodima@gmail.com> (https://github.com/dimaTidev)",
     "keywords": [
-    "Base"
+        "Base"
     ],
     "category": "Base",
     "repository": {

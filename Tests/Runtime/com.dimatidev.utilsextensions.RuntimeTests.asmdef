@@ -1,0 +1,14 @@
+{
+"name" : "com.dimatidev.utilsextensions.RuntimeTests",
+ "references": [
+     "com.dimatidev.utilsextensions.Runtime"
+ ],
+ "optionalUnityReferences": [],
+ "excludePlatforms": [],
+ "allowUnsafeCode": false,
+ "overrideReferences": false,
+ "precompiledReferences": [],
+ "autoReferenced": true,
+ "defineConstraints": []
+
+}
