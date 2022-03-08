@@ -1,7 +1,7 @@
 {
     "name": "com.dimatidev.utilsextensions",
     "displayName": "UtilsExtensions",
-    "version": "0.0.7",
+    "version": "0.1.0",
     "unity": "2018.4",
     "unityRelease": "",
     "description": "List of my common used Utils and Extensions",
